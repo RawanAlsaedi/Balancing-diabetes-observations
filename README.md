@@ -10,8 +10,7 @@ This project focuses on the task of predicting whether a person has diabetes bas
 ## Model
 
 
-**K-Nearest Neighbors (KNN)**  model was used to predict diabetes, with the model being trained on the balanced dataset and evaluated using key performance metrics such as accuracy, precision, recall, and F1-score.
-
+**K-Nearest Neighbors (KNN)** algorithm was used to predict diabetes, with the model being trained on the balanced dataset and evaluated using key performance metrics such as `accuracy`, `precision`, `recall` and `F1-score`. 
 
 
 ## Model Report (before resampling):
